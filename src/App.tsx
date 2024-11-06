@@ -1,5 +1,7 @@
 import "./styles.css";
-import CustomEditor from "./custom.jsx";
+import React from "react";
+
+import CustomEditor from "./custom";
 export default function App() {
   return (
     <div className="App">

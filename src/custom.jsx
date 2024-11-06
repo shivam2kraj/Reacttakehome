@@ -7,7 +7,7 @@ import {
   convertToRaw,
   convertFromRaw,
 } from "draft-js";
-import "draft-js/dist/Draft.css";
+// import "draft-js/dist/Draft.css";
 
 // Custom inline style map to support 'RED' text color
 const styleMap = {
